@@ -148,16 +148,17 @@ opacity:.4;
 
 
 @media only screen and (max-width: 640px) {
-  #masthead {
-    /* Positioning */
-    position: static;
-    margin-bottom: 20px;
-  }
-
-  header .container {
-    padding: 0;
-  }
-
-  main.container {
-    padding-top: 0;
-  }
+	#masthead {
+	  /* Positioning */
+	  position: static;
+	  margin-bottom: 20px;
+	}
+  
+	header .container {
+	  padding: 0;
+	}
+  
+	main.container {
+	  padding-top: 0;
+	}
+}
